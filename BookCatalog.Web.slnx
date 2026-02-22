@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BookCatalog.Data/BookCatalog.Data.csproj" />
+  <Project Path="BookCatalog.Services/BookCatalog.Services.csproj" />
+  <Project Path="BookCatalog.Web/BookCatalog.Web.csproj" />
+  <Project Path="MyProject.Tests/MyProject.Tests.csproj" Id="5443ba30-7627-4066-bd56-3c38c54f78d8" />
+</Solution>
